@@ -13,8 +13,6 @@
 # production
 /build
 
-yarn.lock
-
 CNAME
 
 # misc
